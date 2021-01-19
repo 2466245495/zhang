@@ -1,0 +1,4 @@
+C:\Users\86135\Desktop\课设\贪吃蛇2.0\snake2.0\Debug\snake2.0.exe
+C:\Users\86135\Desktop\课设\贪吃蛇2.0\snake2.0\Debug\snake2.0.pdb
+C:\Users\86135\Desktop\贪吃蛇2.0\snake2.0\Debug\snake2.0.exe
+C:\Users\86135\Desktop\贪吃蛇2.0\snake2.0\Debug\snake2.0.pdb
