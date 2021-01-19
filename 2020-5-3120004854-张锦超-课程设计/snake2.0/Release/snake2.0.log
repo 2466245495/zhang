@@ -1,8 +1,0 @@
-﻿  main.cpp
-C:\Users\86135\Desktop\课设\贪吃蛇2.0\snake2.0\main.cpp(377,5): warning C4102: “gmor”: 未引用的标签
-C:\Users\86135\Desktop\课设\贪吃蛇2.0\snake2.0\main.cpp(489,4): warning C4102: “rkl”: 未引用的标签
-  正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 42 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  snake2.0.vcxproj -> C:\Users\86135\Desktop\课设\贪吃蛇2.0\snake2.0\Release\snake2.0.exe
